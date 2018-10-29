@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/pbx-test-flask/pbx-test-flask/env
+/.vscode/launch.json
+/pbx-tests/aws-beanstalk-tools-defaults.json

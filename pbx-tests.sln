@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pbx-test-dotnet", "pbx-tests\pbx-test-dotnet.csproj", "{6265CB83-3D75-4B60-AE05-ED8148427931}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pbx-test-flask", "pbx-test-flask\pbx-test-flask\pbx-test-flask.pyproj", "{5A285F00-B129-48DC-AD52-962EEA1D3BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6265CB83-3D75-4B60-AE05-ED8148427931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6265CB83-3D75-4B60-AE05-ED8148427931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6265CB83-3D75-4B60-AE05-ED8148427931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6265CB83-3D75-4B60-AE05-ED8148427931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A285F00-B129-48DC-AD52-962EEA1D3BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A285F00-B129-48DC-AD52-962EEA1D3BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A285F00-B129-48DC-AD52-962EEA1D3BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A285F00-B129-48DC-AD52-962EEA1D3BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97B47165-BA80-457B-B988-8C2A3315B9F5}
+	EndGlobalSection
+EndGlobal
